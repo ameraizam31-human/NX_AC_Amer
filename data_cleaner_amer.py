@@ -1,3 +1,5 @@
+# Developer: Amer Aizam | I SETEL SOLUTIONS
+# Version: 1.0.1
 """
 Amer Aizam - Data Cleaner Pro
 A Professional Data Cleaning Application using Streamlit

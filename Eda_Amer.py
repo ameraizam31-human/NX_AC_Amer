@@ -1,3 +1,5 @@
+# Developer: Amer Aizam | I SETEL SOLUTIONS
+# Version: 1.0.1
 import streamlit as st
 import pandas as pd
 import numpy as np
